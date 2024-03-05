@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+main {
+    background: white;
+    overflow: hidden;
+}
+.boxes{
+    display: inline-block;
+    position: relative;
+    margin-left: 40px;
+    margin-top: 70px;
+    margin-bottom: 215px;
+}
+.boxes .box1{
+    float: left;
+    width: 348px;
+height: 272px;
+border-radius: 15px;
+background: #FAFAFA;
+margin-right: 15px;
+}
+.bo {
+    margin-top: 20px;
+    margin-left: 35%;
+    width: 104px;
+height: 104px;
+left: 370px;
+border-radius: 15px;
+background: white;
+}
+.bo img{
+    padding: 27px;
+}
+.boxes p{
+    font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+font-weight: 500;
+color: #060628;
+margin-top: 20px;
+text-align: center;
+}
+.bonus{
+margin-left: 40px;
+width: 631px;
+height: 278px;
+margin-bottom: 81px;
+}
+.bonus h1{
+    font-family: 'Montserrat', sans-serif;
+font-size: 36px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: left;
+color: #060628;
+margin-bottom: 20px;
+}
+.bonus p{
+    font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 40px;
+}
+.bonus button{
+    width: 344px;
+height: 81px;
+border-radius: 15px;
+border: 1px solid #0000DE;
+background: none;
+color: #0000DE;
+font-size: 20px;
+font-family: 'Montserrat', sans-serif;
+}
+.bonus button:hover{
+    cursor: pointer;
+}
+.bonus2{
+    width: 702px;
+height: 398px;
+border-radius: 64px 6px 64px 6px;
+background: #FAFAFA;
+margin-left: 767px;
+margin-top: -433px;
+margin-bottom: 21px;
+}
+.bonus2 img{
+    margin: 50px 116px;
+}
+.app img{
+    margin-left: 40px;
+    width: 702px;
+height: 398px;
+margin-top: 88px;
+}
+.app2{
+    margin-left: 860px;
+    margin-top: -390px;
+}
+.app2 h1{
+    font-family: 'Montserrat', sans-serif;
+font-size: 36px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 20px;
+color: #060628;
+}
+.app2 p{
+    font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+font-weight: 400;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 20px;
+}
+.app2 img{
+    margin-bottom: 110px;
+    width: 166px;
+height: 59px;
+margin-left: 0;
+margin-top: 0;
+}
+.appmap{
+    margin-left: 40px;
+width: 631px;
+height: 247px;
+margin-bottom: 185px;
+margin-top: 151px;
+}
+.appmap h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #060628;
+    margin-bottom: 20px;
+}
+.appmap p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 40px;
+}
+.appmap button{
+    width: 344px;
+    height: 81px;
+    border-radius: 15px;
+    border: 1px solid #0000DE;
+    background: none;
+    color: #0000DE;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.appmap button:hover{
+    cursor: pointer;
+}
+.appmap .map{
+    position: relative;
+    margin-left: 700px;
+    margin-top: -390px;
+}
+.minizapravka{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.otziv {
+    margin-left: 940px;
+    margin-top: -400px;
+    margin-bottom: 300px;
+}
+.otziv h2{
+    font-family: 'Montserrat', sans-serif;
+font-size: 36px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: left;
+}
+.social{
+    margin-top: 25px;
+    width: 900px;
+}
+figure{
+ display: inline-block;
+ margin-left: -90px;
+ margin-right: 150px;
+}
+figcaption{
+    font-family: 'Montserrat', sans-serif;
+font-size: 18px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+margin-left: -100px;
+}
+.social button{
+    font-family: 'Montserrat', sans-serif;
+    width: 196px;
+height: 46.15116500854492px;
+border-radius: 10px;
+border: 1px;
+margin-left: -60px;
+margin-right: 40px;
+margin-top: 15px;
+background: #0000DE;
+color: white;
+font-size: 16px;
+font-weight: 400;
+}
